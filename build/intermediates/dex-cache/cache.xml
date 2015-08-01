@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidProjects\11_Data\FromProm2Marriage\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\AndroidProjects\11_Data\FromProm2Marriage\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-ee4011f0f9a0b9669df202a05eeba00858eaf7a7.jar" />
+    </item>
+    <item
+        jar="C:\AndroidProjects\11_Data\FromProm2Marriage\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\AndroidProjects\11_Data\FromProm2Marriage\app\build\intermediates\pre-dexed\debug\classes-34be49d19a3c3433852ee5be234fb39b8ea93088.jar" />
+    </item>
+    <item
+        jar="C:\AndroidProjects\11_Data\FromProm2Marriage\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\AndroidProjects\11_Data\FromProm2Marriage\app\build\intermediates\pre-dexed\debug\classes-63d7859120b27720fc0928194edd348d2f7b4624.jar" />
+    </item>
+    <item
+        jar="C:\Users\10081069\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\AndroidProjects\11_Data\FromProm2Marriage\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-72eb9d8b5af152367452508262dda4c179ef8369.jar" />
+    </item>
+
+</items>
